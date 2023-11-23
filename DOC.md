@@ -18,3 +18,4 @@ Jeśli gałąź nie istnieje lokalnie, ta komenda również ją utworzy i przeł
 Pamiętaj że w każdej chili możesz wrócić do punktu wyjscia nie tracąc czasu na przywracania zmian.
 
 # Dalsza część dokumentacji ....
+ cokolwiek 
